@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/68894999/fuzzy-match-for-2-lists-with-very-similar-names
+
+Packages:
+	1. pip3 install pandas
+	2. pip install fuzzywuzzy
